@@ -1,0 +1,40 @@
+.Header{
+    display: block ;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.container__dish1,.container__dish2,.container__dish3,.container__dish4{
+    border: solid black 2px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    margin-top: 10px;
+    
+    
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.container{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+form{
+    text-align: center;
+    display: inline-block;
+}
+.send{
+    width: 400px;
+    background-color: #FEFF00;
+    color: black;
+}
+img{
+    height: 300px;
+}
